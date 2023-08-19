@@ -10,4 +10,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuiz-Cardoso&show_icons=true&theme=transparent)
 
 ## Tecnologies that i know
-
+            <i class="devicon-python-plain colored"></i>
+            <i class="devicon-mysql-plain colored"></i>
+            <i class="devicon-unity-original colored"></i>
+          
+          
+          
