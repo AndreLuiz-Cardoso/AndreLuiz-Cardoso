@@ -6,3 +6,8 @@
 🖥️I've been studying about python, SQL and Power BI.
 
 🎮Nowadays my hobbies are developing games for fun.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuiz-Cardoso&show_icons=true&theme=transparent)
+
+## Tecnologies that i know
+
