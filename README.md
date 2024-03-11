@@ -1,9 +1,7 @@
 ### Hi there 👋
-🧑‍💼 I'm a corporate lawyer in the process of career migration, currently learning about data analysis and business intelligence.
+🧑‍💼 I'm a corporate lawyer in the process of career migration.
 
-💡I believe that my previous knowledge in business can contribute to my new journey in the world of data science.
-
-🖥️I've been studying about python, SQL and Power BI.
+🖥️I've been studying about cybersecurity, python, SQL and Power BI.
 
 🎮Nowadays my hobbies are developing games for fun.
 
