@@ -1,7 +1,7 @@
 ### Hi there 👋
 🧑‍💼 I'm a corporate lawyer in the process of career migration.
 
-🖥️I've been studying about cybersecurity, python, SQL and Power BI.
+🖥️I've been studying about python, SQL and Power BI.
 
 🎮Nowadays my hobbies are developing games for fun.
 
