@@ -19,7 +19,7 @@ Explore my work organized by area:
 - 🧮[SQL](https://github.com/AndreLuiz-Cardoso/SQL) – Complex queries, data manipulation, performance tuning  
 - 💻[42 Luxembourg](https://github.com/AndreLuiz-Cardoso/42-Luxembourg) – C programming, algorithms, system-level logic  
 - 🤖[Machine Learning](https://github.com/AndreLuiz-Cardoso/Machine-Learning) – Predictive models, scikit-learn experiments  
-- 🔗[Blockchain]([./Blockchain/](https://github.com/AndreLuiz-Cardoso/Blockchain/) – Smart contracts, crypto logic, and Web3 prototypes
+- 🔗[Blockchain](https://github.com/AndreLuiz-Cardoso/Blockchain/) – Smart contracts, crypto logic, and Web3 prototypes
 ---
 ## 🧰 Technologies
 
